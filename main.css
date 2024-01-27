@@ -3,14 +3,22 @@
   flex-flow: row wrap;
 }
 
-.card {
+.card-img-top {
+  width: 286px;
+  height: 190px;
+}
+
+/*.card {
   margin: 10px;
+}*/
+
+body {
+  background-color: aqua;
 }
 
 
 
-
-#all-btn {
+/*#all-btn {
   background-color: blue;
 }
 
@@ -24,4 +32,16 @@
 
 #dinos-btn {
   background-color: green;
+}*/
+
+#Cats {
+  background-color: green;
+}
+
+#Dinos {
+  background-color: orange;
+} 
+
+#Dogs {
+  background-color: red;
 }
